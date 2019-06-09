@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{ 
+	
+	
+}
+.container{ 
+	display: flex;
+	height: 100vh;
+	align-items: center;
+	flex-direction: column;
+	
+}
+h1 {
+	color:coral;
+	font-size: 50px;
+	text-align: center;
+}
+
+.style-img{
+	display: flex;
+}
+.button{
+	padding: 5px;
+}
