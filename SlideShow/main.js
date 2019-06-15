@@ -56,7 +56,8 @@ function playBack (){
 let myInterval;
 
 function playAuto(){
-	myInterval = setInterval(playNext,1000);
+	myInterval = setInterval(playNext,500);
+	
 }
 
 function stopAuto(){
